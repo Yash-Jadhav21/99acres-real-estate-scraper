@@ -28,5 +28,3 @@ A powerful web scraping tool built using **Selenium** and **Python** to extract 
 
 ### Python Libraries
 
-```bash
-pip install selenium numpy
